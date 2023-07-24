@@ -1,10 +1,7 @@
 # Maryamh12.github.io
 Snak Game
 Snak Game is a classic snake game implemented using HTML, CSS, and JavaScript. The game allows the player to control a snake and navigate it to eat food and grow longer. The objective of the game is to achieve the highest score possible without colliding with the boundaries or the snake's own body.
-
-
-
-  
+ 
 Features
 •	Responsive and visually appealing game interface.
 •	Smooth snake movement controlled by arrow keys.
@@ -52,5 +49,4 @@ Acknowledgements
 •	This project was inspired by the classic snake game and built as a learning exercise.
  
 Enjoy playing the Snak Game and have fun!
-
 
