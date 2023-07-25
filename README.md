@@ -2,6 +2,9 @@
 #  Snak Game!
 
 Snak Game is a classic snake game implemented using HTML, CSS, and JavaScript. The game allows the player to control a snake and navigate it to eat food and grow longer. The objective of the game is to achieve the highest score possible without colliding with the boundaries or the snake's own body.
+
+
+
 ![enter image description here](https://cdn-icons-png.flaticon.com/128/1303/1303574.png)
 #  Features
 
